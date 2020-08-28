@@ -2,7 +2,7 @@
 
 **Simple Todo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Kelvin-Clyde McGuire**
+Submitted by: **Tyler Elliosn**
 
 Time spent: **15** hours spent in total
 
@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Most of the challenges I faced while creating the Simple Todo app were mainly technical. I was unable to successfully set up the emulator on my local device, and I also ran into some trouble while following along with the videos. Lastly, I had complications with working within the terminal as I prepared to submit my project. All of these issues combined have been causes of my late submission, which was impossible to turn in on Tuesday since I had to go get a new computer on Tuesday just to do this.
+Some of the challenges I faced were the emulator and AVD. I had trouble following along with the videos that was assigned along with the video. Sorry it was a late submission.
 
 ## License
 
